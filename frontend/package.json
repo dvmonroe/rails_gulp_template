@@ -1,0 +1,24 @@
+{
+  "name": "BH",
+  "version": "0.1.0",
+  "description": "BH",
+  "main": "index.js",
+  "author": "Drew Monroe",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "latest",
+    "dotenv": "latest",
+    "express": "^4.12.2",
+    "gulp": "latest",
+    "gulp-clean": "latest",
+    "gulp-include": "latest",
+    "gulp-jshint": "latest",
+    "gulp-livereload": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "^1.3.3",
+    "gulp-swig": "latest",
+    "gulp-util": "latest",
+    "run-sequence": "latest",
+    "swig": "latest"
+  }
+}
